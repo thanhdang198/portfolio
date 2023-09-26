@@ -70961,8 +70961,8 @@ q.toString
 return A.d0(A.a([B.k6,B.ka,o,n,A.bV(A.Ih(A.b3("See More",q.ce($.bz.a),p),new A.a3H(),r),s*14*0.77+14,s*50*0.77+50)],t.p),B.aa,B.p,B.t)}}
 A.a3G.prototype={
 $3(a,b,c){var s,r,q=B.l8[c]
-if(A.aso()==="android")s=B.CD[c]
-else s=A.aso()==="ios"?B.CI[c]:B.lc[c]
+if(A.aso()==="Android")s=B.CD[c]
+else s=A.aso()==="iOS"?B.CI[c]:B.lc[c]
 r=B.kZ[c]
 return new A.bT(B.AL,A.a3U(null,B.l3[c],q,null,s,r),null)},
 $S:45}
