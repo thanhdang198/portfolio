@@ -1,6 +1,6 @@
 {
     "name": "Thanh dang",
-    "email": "thanhdang98@thanhdt.dev",
+    "email": "contact@thanhdt.dev",
     "subtitles": [
         "Mobile Developer"
     ],
@@ -104,7 +104,7 @@
         },
         {
             "param": "email",
-            "value": "thanhdang98@thanhdt.dev"
+            "value": "contact@thanhdt.dev"
         }
     ]
 }
